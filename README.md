@@ -1,5 +1,5 @@
 
-# 🧠 Actividad Formativa Semana 6 – Desarrollo Orientado a Objetos I
+# 🧠 Actividad Formativa 4 Semana 6 – Desarrollo Orientado a Objetos I
 
 
 ## 👤 Autor del proyecto
