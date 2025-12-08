@@ -1,5 +1,5 @@
 
-# 🧠 Actividad Formativa 4 Semana 6 – Desarrollo Orientado a Objetos I
+# 🧠 Actividad Formativa 5 Semana 7 – Desarrollo Orientado a Objetos I
 
 
 ## 👤 Autor del proyecto
@@ -14,7 +14,7 @@
 
 Esta actividad tiene como objetivo aplicar los principios de Programación Orientada a Objetos mediante la creación de jerarquías de clases con herencia simple. Se requiere definir una clase base que integre atributos y métodos comunes, y luego desarrollar subclases que extiendan su funcionalidad. Además, se espera utilizar conceptos clave como herencia, sobrescritura de métodos y composición entre clases cuando corresponda.
 
-El trabajo se desarrolla en el contexto del proyecto de digitalización de la empresa salmonera Salmontt, continuando el modelado y la estructura creados en etapas anteriores.
+El trabajo se desarrolla en el contexto del proyecto de digitalización de la empresa salmonera Salmontt, continuando el modelado y la estructura creados en etapas anteriores. Esta semana destaca la creación de una colección polimórfica.
 
 
 ## 🧱 Estructura general del proyecto
@@ -28,10 +28,10 @@ El trabajo se desarrolla en el contexto del proyecto de digitalización de la em
 ## ⚙️ Instrucciones para clonar y ejecutar el proyecto
 
 1. Clona el repositorio desde GitHub:
- <pre> git clone https://github.com/Milencpa/SalmonttApp_S6.git </pre>
+ <pre> git clone https://github.com/Milencpa/SalmonttApp.git </pre>
 2. Abre el proyecto en IntelliJ IDEA.
 3. Ejecuta el archivo Main.java desde el paquete ui.
 4. Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
 
 
-**Repositorio GitHub:** [https://github.com/Milencpa/SalmonttApp_S6] **Fecha de entrega:** [01/12/2025]
+**Repositorio GitHub:** [https://github.com/Milencpa/SalmonttApp] **Fecha de entrega:** [08/12/2025]
