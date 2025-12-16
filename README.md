@@ -1,5 +1,5 @@
 
-# 🧠 Actividad Formativa 5 Semana 7 – Desarrollo Orientado a Objetos I
+# 🧠 Actividad Sumativa 3 Semana 8 – Desarrollo Orientado a Objetos I
 
 
 ## 👤 Autor del proyecto
@@ -14,15 +14,15 @@
 
 Esta actividad tiene como objetivo aplicar los principios de Programación Orientada a Objetos mediante la creación de jerarquías de clases con herencia simple. Se requiere definir una clase base que integre atributos y métodos comunes, y luego desarrollar subclases que extiendan su funcionalidad. Además, se espera utilizar conceptos clave como herencia, sobrescritura de métodos y composición entre clases cuando corresponda.
 
-El trabajo se desarrolla en el contexto del proyecto de digitalización de la empresa salmonera Salmontt, continuando el modelado y la estructura creados en etapas anteriores. Esta semana destaca la creación de una colección polimórfica.
+El trabajo se desarrolla en el contexto del proyecto de digitalización de la empresa salmonera Salmontt, continuando el modelado y la estructura creados en etapas anteriores. Esta semana destaca la creación de una Interfaz Gráfica de Usuario.
 
 
 ## 🧱 Estructura general del proyecto
 ```
 📁 src/
-├── ui/         # Clase principal con el método main  
-├── model/      # Clases de dominio (UnidadOperativa, CentroCultivo, PlantaProceso)  
-└── data/       # Clases para la gestión básica de datos (GestorUnidades)   
+├── ui/         # Clase principal con el método main (Pantalla Principal) 
+├── model/      # Clases de dominio (Entidad, Proveedor, Registrable, CentroCultivo, PlantaProceso)  
+└── data/       # Clases para la gestión básica de datos (GestorEntidades)   
 ```
 
 ## ⚙️ Instrucciones para clonar y ejecutar el proyecto
@@ -34,4 +34,4 @@ El trabajo se desarrolla en el contexto del proyecto de digitalización de la em
 4. Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
 
 
-**Repositorio GitHub:** [https://github.com/Milencpa/SalmonttApp] **Fecha de entrega:** [08/12/2025]
+**Repositorio GitHub:** [https://github.com/Milencpa/SalmonttApp] **Fecha de entrega:** [15/12/2025]
